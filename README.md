@@ -3,6 +3,4 @@ A collection of status pages for use on SDC services.
 
 ## Index of pages
 
-- [**Service retired**](service-retired.html)
-
-A status page to be displayed when a service is removed from active service.
+- [**Service retired**](service-retired.html)- a status page to be displayed when a service is removed from active service.
